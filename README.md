@@ -17,6 +17,8 @@ For more details, please check the demo **Control.csv**
 The unknown Points coordinate approximation file stores the approximation of unknown point coordinates. It has the same format as the control point file.
 *This file will no longer be required in the future update*
 
+Make sure the units are unified - use one unit for all observations and one unit for all angles (including errors)
+
 # Quick demo
 Please check **Main.py**
 
